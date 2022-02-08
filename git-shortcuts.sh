@@ -1,0 +1,6 @@
+alias gbranches="git branch --sort=-committerdate"
+alias gco="git checkout"
+alias gs="git status"
+alias gcap="git commit -a && git push"
+alias gca="git commit -a"
+alias gcb="git push -u origin HEAD"
